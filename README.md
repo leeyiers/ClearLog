@@ -1,0 +1,2 @@
+# ClearLog
+Bypassing .bat
